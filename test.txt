@@ -1,3 +1,5 @@
 This is my first class
 Bye
 Hello
+This is a git file
+
